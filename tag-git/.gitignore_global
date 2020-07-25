@@ -5,4 +5,5 @@
 .tar.gz
 .gz
 .sql
-
+.pem
+.cert

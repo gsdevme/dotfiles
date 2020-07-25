@@ -1,0 +1,12 @@
+[core]
+	excludesfile = ~/.gitignore_global
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Gavin Staniforth
+	email = gsdevme@users.noreply.github.com
+[pull]
+	ff = only
