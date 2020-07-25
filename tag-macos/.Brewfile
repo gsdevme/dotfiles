@@ -39,6 +39,7 @@ cask "docker"
 cask "firefox"
 cask "google-chrome"
 
+cask 'cityofzion-neon"
 cask "iterm2"
 cask "licecap"
 cask "phpstorm"
