@@ -1,9 +1,10 @@
 .idea
 .DS_Store
-.zip
-.rar
-.tar.gz
-.gz
-.sql
-.pem
-.cert
+*.zip
+*.rar
+*.tar.gz
+*.gz
+*.sql.gz
+*.sql
+*.pem
+*.cert
